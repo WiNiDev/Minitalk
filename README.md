@@ -1,6 +1,6 @@
 # Minitalk
 ---------------------------------------------------
-## 42 - 42 - Chat written on C, using only 2 signals (SIGUSR1 and SIGUSR2) to send a message.
+## 42 - Chat written on C, using only 2 signals (SIGUSR1 and SIGUSR2) to send a message.
 ---------------------------------------------------
 
 ## Final grade : 115/100
